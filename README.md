@@ -5,6 +5,6 @@ Achieved 72.56% accuracy on testing dataset.
 
 Need to download dataset and needed libraries:
 
-Link to dataset:
+Link to dataset: https://drive.google.com/drive/folders/1BfqoUALYEzEUkgNHYGSOXKEhBx45rKAa?usp=sharing 
 
-Link to libraries (put in one folder and add all of them to the path):
+Link to libraries (put in one folder and add all of them to the path): https://drive.google.com/drive/folders/1w8ZnvPPaT_vFo3lcMJCqzMRWmq6lHqm2?usp=sharing 
